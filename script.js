@@ -6,8 +6,8 @@
    Type your own shop latitude and longitude between the quotes.
    Leave both empty until you have the correct values.
    Tip: in Google Maps, long-press (or right-click) the shop and copy the two numbers. */
-const latitude = "26.8855820";
-const longitude = "84.5745910";
+const latitude = 26.8855820;
+const longitude = 84.5745910;
 
 /* ---- 2. SHOP TIMINGS – 24-hour format "HH:MM" (lines 14 and 15) ----
    Please confirm and update whenever timings change. */
